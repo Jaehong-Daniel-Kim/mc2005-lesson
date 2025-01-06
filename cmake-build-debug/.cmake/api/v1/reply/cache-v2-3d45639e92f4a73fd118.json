@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug"
+			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson"
+			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug"
+			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug"
 		},
 		{
 			"name" : "MerkelAPP_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson"
+			"value" : "/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson"
 		}
 	],
 	"kind" : "cache",

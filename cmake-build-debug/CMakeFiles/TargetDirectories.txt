@@ -1,3 +1,3 @@
-/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug/CMakeFiles/MerkelApp.dir
-/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug/CMakeFiles/MerkelApp.dir
+/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hongs/UniversityOfLondon/2024-10-14/CM2005_Object_Oriented_Programming/midterm/mc2005-lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
